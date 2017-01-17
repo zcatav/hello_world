@@ -1,1 +1,2 @@
 test dosyası olarak yazıldı.
+yerelde değiştirildi.

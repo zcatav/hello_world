@@ -1,0 +1,5 @@
+test dosyası olarak yazıldı.
+
+
+
+son satır.
